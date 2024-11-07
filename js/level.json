@@ -4,6 +4,10 @@
         {
             "type": "turtle",
             "count": 5
+        },
+        {
+            "type":"mashroom",
+            "count": 2
         }
     ]
 }
