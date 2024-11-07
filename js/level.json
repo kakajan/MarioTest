@@ -1,3 +1,9 @@
 {
-    "levelName":"Kertop"
+    "levelName":"Kertop",
+    "EnemyCount": [
+        {
+            "type": "turtle",
+            "count": 5
+        }
+    ]
 }
